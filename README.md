@@ -25,7 +25,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Step 1 - Install aliichwan123Hub skill
+      - name: Step 1 - Install aliichwan123@Hub skill
         run: npx aliichwan123hub@latest install verified-agent-identity
 
       - name: Install script dependencies
