@@ -8,7 +8,7 @@ on:
         required: true
         default: 'ali ichwan123'
       agent_description:
-        description: 'asc'
+        description: 'aliichwan123'
         required: true
         default: 'aliichwan123 AI Agent'
 
