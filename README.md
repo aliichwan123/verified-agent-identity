@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'aliichwan123'
         required: true
-        default: 'ali ichwan123'
+        default: 'aliichwan123'
       agent_description:
         description: 'aliichwan123'
         required: true
@@ -26,7 +26,7 @@ jobs:
           node-version: '20'
 
       - name: Step 1 - Install ClawHub skill
-        run: npx clawhub@latest install verified-agent-identity
+        run: npx aliichwan123hub@latest install verified-agent-identity
 
       - name: Install script dependencies
         run: |
